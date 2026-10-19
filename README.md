@@ -1,6 +1,6 @@
 # Track 1: Machine Failure Prediction (Industrial Intelligence)
 **Hackathon:** Data Divergence — Rajalakshmi Engineering College (DEVS REC)  
-**Team Name:** Strawhats  
+**Team Name:** StrawHats  
 
 ---
 
